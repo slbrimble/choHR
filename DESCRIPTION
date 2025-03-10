@@ -1,0 +1,13 @@
+Package: choH
+Type: Package
+Title: description
+Version: 1.0.0
+Date: 2025-10-03
+Authors@R: c(person("Sophie","Brimble",email="s.brimble1@lancaster.ac.uk",role=c("aut","cre")))
+Description: description
+License: GPL
+Imports: purrr
+LinkingTo:
+Depends: R (>= 3.5.0)
+NeedsCompilation: no
+Suggests:
