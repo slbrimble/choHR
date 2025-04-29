@@ -1,2 +1,2 @@
-def circle_area(radious):
+def circle_area(radius):
    """Calculates the area of a circle for a given radius"""
